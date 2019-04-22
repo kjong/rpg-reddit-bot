@@ -1,0 +1,93 @@
+bardiche
+bastard sword
+blade staff
+blowgun
+claws
+club
+club and shield
+club and torch
+cutlass
+cutlass and shield
+cutlass and torch
+dirk
+dirk and shield
+dirk and torch
+dual wield cutlasses
+dual wield dirks
+dual wield flails
+dual wield hand axes
+dual wield hatchets
+dual wield morning stars
+dual wield rapiers
+dual wield sabres
+dual wield scimitars
+dual wield shields
+dual wield trench knives
+dual wield war picks
+flail
+flail and shield
+flail and torch
+flintlock pistol
+fork
+glaive
+great axe
+great flail
+great sword
+halberd
+hand axe
+hand axe and shield
+hand axe and torch
+hatchet
+hatchet and shield
+hatchet and torch
+heavy crossbow
+horn bow
+kris
+kris and shield
+kris and torch
+lance
+light crossbow
+long sword
+longbow
+maul
+morning star
+morning star and shield
+morning star and torch
+musket
+pickaxe
+pike
+pocket sand
+polearm
+quarter staf
+rapier
+rapier and shield
+rapier and torch
+recurve bow
+sabre
+sabre and shield
+sabre and torch
+scimitar
+scimitar and shield
+scimitar and torch
+scythe
+shortbow
+shovel
+sickle
+sickle and shield
+sickle and torch
+sling
+spear
+spoon
+staff
+Thunderfury, Blessed Blade of the Windseeker
+trench knife
+trench knife and shield
+trench knife and torch
+trident
+unarmed
+war axe
+war pick
+war pick and shield
+war pick and torch
+warhammer
+whip

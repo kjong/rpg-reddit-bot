@@ -1,0 +1,15 @@
+changeling
+dwarf
+elf
+giant
+gnome
+goblin
+goliath
+halfling
+human
+kobold
+norn
+orc
+satyr
+tiefling
+troll

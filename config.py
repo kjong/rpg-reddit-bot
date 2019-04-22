@@ -1,0 +1,5 @@
+username = ""
+password = ""
+client_id = ""
+client_secret = ""
+reddit_sub = "rpg"
